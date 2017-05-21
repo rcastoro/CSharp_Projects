@@ -1,0 +1,12 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\bin\Release\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\bin\Release\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\obj\Release\MailXOR.UserSettings.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\obj\Release\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\obj\Release\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\bin\Release\MailXOR.UserSettings.dll.config
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UserSettings\bin\Release\MailXOR.UserSettings.dll.config
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UserSettings\bin\Release\MailXOR.UserSettings.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UserSettings\bin\Release\MailXOR.UserSettings.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UserSettings\obj\Release\MailXOR.UserSettings.csprojResolveAssemblyReference.cache
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UserSettings\obj\Release\MailXOR.UserSettings.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UserSettings\obj\Release\MailXOR.UserSettings.pdb

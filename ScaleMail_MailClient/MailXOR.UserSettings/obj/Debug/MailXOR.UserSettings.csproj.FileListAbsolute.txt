@@ -1,0 +1,4 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\bin\Debug\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\bin\Debug\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\obj\Debug\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UserSettings\obj\Debug\MailXOR.UserSettings.pdb

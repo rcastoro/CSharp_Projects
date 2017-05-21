@@ -1,0 +1,4 @@
+c:\Users\rcastoro\documents\visual studio 2012\Projects\MailXOR\MailXOR.CustomControls\obj\Debug\MailXOR.CustomControls.csprojResolveAssemblyReference.cache
+c:\Users\rcastoro\documents\visual studio 2012\Projects\MailXOR\MailXOR.CustomControls\obj\Debug\MailXOR.CustomControls.CustomListBox.ListBoxDecorated.resources
+c:\Users\rcastoro\documents\visual studio 2012\Projects\MailXOR\MailXOR.CustomControls\obj\Debug\MailXOR.CustomControls.Properties.Resources.resources
+c:\Users\rcastoro\documents\visual studio 2012\Projects\MailXOR\MailXOR.CustomControls\obj\Debug\MailXOR.CustomControls.csproj.GenerateResource.Cache

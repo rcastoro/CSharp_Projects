@@ -1,0 +1,17 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.EmailEngine.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Release\Mail.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Release\Mail.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\obj\Release\MailXOR.EmailEngine.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\obj\Release\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\obj\Release\MailXOR.EmailEngine.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.EmailEngine.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.EmailEngine.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.UserSettings.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\bin\Release\MailXOR.UserSettings.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\bin\Release\Mail.xml
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\obj\Release\MailXOR.EmailEngine.csprojResolveAssemblyReference.cache
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\obj\Release\MailXOR.EmailEngine.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.EmailEngine\obj\Release\MailXOR.EmailEngine.pdb

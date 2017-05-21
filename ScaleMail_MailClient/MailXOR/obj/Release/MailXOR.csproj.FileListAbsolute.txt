@@ -1,0 +1,30 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\ScaleMail.exe.config
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\ScaleMail.exe.manifest
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\ScaleMail.application
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\ScaleMail.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\ScaleMail.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\MailXOR.UI.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\Mail.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\MailXOR.EmailEngine.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\MailXOR.UI.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\bin\Release\Mail.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\MailXOR.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\MailXOR.AboutForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\MailXOR.MainForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\MailXOR.Properties.Resources.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\MailXOR.csproj.GenerateResource.Cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\ScaleMail.exe.manifest
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\ScaleMail.application
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\ScaleMail.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR\obj\Release\ScaleMail.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\bin\Release\ScaleMail.exe.config
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\ScaleMail.exe
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\ScaleMail.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\MailXOR.csprojResolveAssemblyReference.cache
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\MailXOR.AboutForm.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\MailXOR.MainForm.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\MailXOR.Properties.Resources.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR\obj\Release\MailXOR.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.UI.exe.config
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.UI.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.UI.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\Mail.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.EmailEngine.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Debug\Mail.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.ComposeEmail.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.Properties.Resources.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.UserAccountForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.csproj.GenerateResource.Cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Debug\MailXOR.UI.pdb

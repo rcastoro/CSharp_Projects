@@ -1,0 +1,39 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.UI.exe.config
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.UI.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.UI.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\LiveSwitch.TextControl.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\Mail.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.EmailEngine.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\bin\Release\Mail.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.csproj.ResolveComReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.AboutForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.ComposeEmail.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.Properties.Resources.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.UserAccountForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.csproj.GenerateResource.Cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.UI.exe.config
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.UI.exe
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.UI.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\LiveSwitch.TextControl.exe
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.EmailEngine.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.UserSettings.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\Mail.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\Microsoft.mshtml.dll
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.EmailEngine.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\MailXOR.UserSettings.pdb
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\bin\Release\Mail.xml
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.csprojResolveAssemblyReference.cache
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.csproj.ResolveComReference.cache
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.AboutForm.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.ComposeEmail.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.Properties.Resources.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.UserAccountForm.resources
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.csproj.GenerateResource.Cache
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.exe
+R:\Personal Files\Documents\OldCodeShit\MailXOR\MailXOR.UI\obj\Release\MailXOR.UI.pdb

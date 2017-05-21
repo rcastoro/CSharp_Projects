@@ -1,0 +1,9 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Debug\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Debug\MailXOR.EmailEngine.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Debug\Mail.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Debug\MailXOR.UserSettings.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Debug\MailXOR.UserSettings.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\bin\Debug\Mail.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\obj\Debug\MailXOR.EmailEngine.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\obj\Debug\MailXOR.EmailEngine.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\MailXOR\MailXOR.EmailEngine\obj\Debug\MailXOR.EmailEngine.pdb
