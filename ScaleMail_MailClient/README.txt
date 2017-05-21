@@ -1,0 +1,1 @@
+This solution was created to practice mail client connectivity between smtp servers with dynamic user accounts. This program is free under GNU and is not to be used commercially. For modifications, please credit rocco castoro, rcastoro@email.itt-tech.edu in readme.txt
