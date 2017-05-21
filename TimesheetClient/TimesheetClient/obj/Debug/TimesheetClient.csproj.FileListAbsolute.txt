@@ -1,0 +1,56 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\TimesheetClient.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\TimesheetClient.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.Properties.Resources.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.csproj.GenerateResource.Cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.exe
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\TimesheetClient.exe.config
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient._timesheetForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.Register.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.MainForm.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Timesheet.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Timesheet.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.csprojResolveAssemblyReference.cache
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.Login.resources
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\log4net.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.IO.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Runtime.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Threading.Tasks.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Zlib.Portable.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\log4net.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.IO.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Runtime.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\System.Threading.Tasks.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\Zlib.Portable.xml
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.csproj.App.config
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\TimesheetClient.exe.manifest
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\bin\Debug\TimesheetClient.application
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.exe.manifest
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.application
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\bin\Debug\TimesheetClient.exe.config
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.exe
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.pdb
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.csproj.App.config
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.csprojResolveAssemblyReference.cache
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.Login.resources
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.MainForm.resources
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.Properties.Resources.resources
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.Register.resources
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient._timesheetForm.resources
+R:\Personal Files\Documents\OldCodeShit\Projects\C#\Projects\TimesheetClient\TimesheetClient\obj\Debug\TimesheetClient.csproj.GenerateResource.Cache

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="TimesheetService" elementFormDefault="qualified" targetNamespace="TimesheetService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:3537/TimesheetService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Timesheet" />
+  <xs:complexType name="ArrayOfTimesheet">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Timesheet" nillable="true" type="tns:Timesheet" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfTimesheet" nillable="true" type="tns:ArrayOfTimesheet" />
+  <xs:complexType name="Timesheet">
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Timesheet" minOccurs="0" name="days" nillable="true" type="q1:ArrayOfDay" />
+      <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/Timesheet" minOccurs="0" name="employee" nillable="true" type="q2:Employee" />
+      <xs:element minOccurs="0" name="month" type="xs:int" />
+      <xs:element minOccurs="0" name="quarter" type="xs:int" />
+      <xs:element minOccurs="0" name="totalhours" type="xs:float" />
+      <xs:element minOccurs="0" name="year" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Timesheet" nillable="true" type="tns:Timesheet" />
+  <xs:complexType name="RequestRegister">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="FirstName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="LastName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="RequestRegister" nillable="true" type="tns:RequestRegister" />
+</xs:schema>

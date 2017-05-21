@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\rcastoro\Desktop\TimesheetAPP\TimesheetService_Deploy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ExcelLibrary.dll">
+      <publishTime>03/13/2015 22:50:37</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.Mvc4.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Auth.PlatformServices.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Core.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.dll">
+      <publishTime>03/12/2015 18:30:56</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.Drive.v2.dll">
+      <publishTime>03/12/2015 18:30:56</publishTime>
+    </File>
+    <File Include="bin/Google.Apis.PlatformServices.dll">
+      <publishTime>03/12/2015 18:30:56</publishTime>
+    </File>
+    <File Include="bin/GoogleSheets.cs">
+      <publishTime>06/15/2015 20:50:41</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>03/12/2015 18:30:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.dll">
+      <publishTime>03/12/2015 18:30:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.Desktop.dll">
+      <publishTime>03/12/2015 18:30:53</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Threading.Tasks.Extensions.dll">
+      <publishTime>03/12/2015 18:30:53</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/13/2015 22:10:50</publishTime>
+    </File>
+    <File Include="bin/System.IO.dll">
+      <publishTime>03/12/2015 18:30:51</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Extensions.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Primitives.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>04/04/2015 12:47:02</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.dll">
+      <publishTime>03/12/2015 18:30:51</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.dll">
+      <publishTime>03/12/2015 18:30:51</publishTime>
+    </File>
+    <File Include="bin/Timesheet.dll">
+      <publishTime>03/05/2015 21:58:11</publishTime>
+    </File>
+    <File Include="bin/TimesheetService.dll">
+      <publishTime>06/15/2015 20:50:43</publishTime>
+    </File>
+    <File Include="bin/Zlib.Portable.dll">
+      <publishTime>03/12/2015 18:30:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/04/2015 12:47:20</publishTime>
+    </File>
+    <File Include="TimesheetDS.xsc">
+      <publishTime>03/05/2015 22:12:24</publishTime>
+    </File>
+    <File Include="TimesheetDS.xss">
+      <publishTime>03/05/2015 22:12:24</publishTime>
+    </File>
+    <File Include="TimesheetService.svc">
+      <publishTime>02/19/2015 18:55:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/15/2015 20:33:56</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

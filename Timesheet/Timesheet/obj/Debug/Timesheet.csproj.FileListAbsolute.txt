@@ -1,0 +1,5 @@
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\Timesheet\Timesheet\bin\Debug\Timesheet.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\Timesheet\Timesheet\bin\Debug\Timesheet.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\Timesheet\Timesheet\obj\Debug\Timesheet.dll
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\Timesheet\Timesheet\obj\Debug\Timesheet.pdb
+C:\Users\rcastoro\Documents\Visual Studio 2012\Projects\Timesheet\Timesheet\obj\Debug\Timesheet.csprojResolveAssemblyReference.cache

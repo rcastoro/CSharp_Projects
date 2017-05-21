@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:ser="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:tns="http://schemas.datacontract.org/2004/07/Timesheet" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Timesheet" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:3537/TimesheetService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:complexType name="ArrayOfDay">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Day" nillable="true" type="tns:Day" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfDay" nillable="true" type="tns:ArrayOfDay" />
+  <xs:complexType name="Day">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="date" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hours" nillable="true" type="tns:ArrayOfHours" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Day" nillable="true" type="tns:Day" />
+  <xs:complexType name="ArrayOfHours">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Hours" nillable="true" type="tns:Hours" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHours" nillable="true" type="tns:ArrayOfHours" />
+  <xs:complexType name="Hours">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="end" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="hours" type="xs:double" />
+      <xs:element minOccurs="0" name="lunch" type="xs:double" />
+      <xs:element minOccurs="0" name="start" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Hours" nillable="true" type="tns:Hours" />
+  <xs:complexType name="Employee">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="employeeToken" type="ser:guid" />
+      <xs:element minOccurs="0" name="firstname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="lastname" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="password" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Employee" nillable="true" type="tns:Employee" />
+</xs:schema>
