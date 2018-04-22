@@ -243,7 +243,7 @@
             this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.AutoSize = true;
-            this.panel2.BackColor = System.Drawing.SystemColors.HotTrack;
+            this.panel2.BackColor = System.Drawing.Color.Gainsboro;
             this.panel2.Controls.Add(this._inboxTitleTextbox);
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
@@ -254,14 +254,14 @@
             // 
             this._inboxTitleTextbox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this._inboxTitleTextbox.BackColor = System.Drawing.SystemColors.HotTrack;
+            this._inboxTitleTextbox.BackColor = System.Drawing.Color.Gainsboro;
             this._inboxTitleTextbox.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this._inboxTitleTextbox.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this._inboxTitleTextbox.Font = new System.Drawing.Font("Gisha", 18.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this._inboxTitleTextbox.ForeColor = System.Drawing.Color.White;
+            this._inboxTitleTextbox.Font = new System.Drawing.Font("Microsoft Sans Serif", 18.5F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this._inboxTitleTextbox.ForeColor = System.Drawing.Color.Black;
             this._inboxTitleTextbox.Location = new System.Drawing.Point(42, 7);
             this._inboxTitleTextbox.Name = "_inboxTitleTextbox";
-            this._inboxTitleTextbox.Size = new System.Drawing.Size(148, 29);
+            this._inboxTitleTextbox.Size = new System.Drawing.Size(148, 28);
             this._inboxTitleTextbox.TabIndex = 1;
             this._inboxTitleTextbox.Text = "Mailbox";
             this._inboxTitleTextbox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -287,7 +287,7 @@
             // 
             this.panel1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel1.BackColor = System.Drawing.Color.CornflowerBlue;
+            this.panel1.BackColor = System.Drawing.Color.Beige;
             this.panel1.Controls.Add(this._replyPictureBtn);
             this.panel1.Controls.Add(this._fromValueLabel);
             this.panel1.Controls.Add(this._fromLabel);
@@ -295,6 +295,7 @@
             this.panel1.Controls.Add(this._receivedOnValueLabel);
             this.panel1.Controls.Add(this._emailTitleLbl);
             this.panel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.panel1.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.panel1.Location = new System.Drawing.Point(-1, 26);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(724, 111);
@@ -317,7 +318,7 @@
             | System.Windows.Forms.AnchorStyles.Left)));
             this._fromValueLabel.AutoSize = true;
             this._fromValueLabel.Font = new System.Drawing.Font("Verdana", 8.25F);
-            this._fromValueLabel.ForeColor = System.Drawing.Color.White;
+            this._fromValueLabel.ForeColor = System.Drawing.Color.Black;
             this._fromValueLabel.Location = new System.Drawing.Point(132, 55);
             this._fromValueLabel.Name = "_fromValueLabel";
             this._fromValueLabel.Size = new System.Drawing.Size(0, 13);
@@ -331,8 +332,9 @@
             this._fromLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this._fromLabel.AutoSize = true;
+            this._fromLabel.BackColor = System.Drawing.Color.Gainsboro;
             this._fromLabel.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold);
-            this._fromLabel.ForeColor = System.Drawing.Color.White;
+            this._fromLabel.ForeColor = System.Drawing.Color.Black;
             this._fromLabel.Location = new System.Drawing.Point(69, 55);
             this._fromLabel.Name = "_fromLabel";
             this._fromLabel.Size = new System.Drawing.Size(60, 13);
@@ -346,8 +348,9 @@
             this._receivedOnLabel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this._receivedOnLabel.AutoSize = true;
+            this._receivedOnLabel.BackColor = System.Drawing.Color.Gainsboro;
             this._receivedOnLabel.Font = new System.Drawing.Font("Verdana", 8.25F, System.Drawing.FontStyle.Bold);
-            this._receivedOnLabel.ForeColor = System.Drawing.Color.White;
+            this._receivedOnLabel.ForeColor = System.Drawing.Color.Black;
             this._receivedOnLabel.Location = new System.Drawing.Point(69, 75);
             this._receivedOnLabel.Name = "_receivedOnLabel";
             this._receivedOnLabel.Size = new System.Drawing.Size(91, 13);
@@ -362,7 +365,7 @@
             | System.Windows.Forms.AnchorStyles.Left)));
             this._receivedOnValueLabel.AutoSize = true;
             this._receivedOnValueLabel.Font = new System.Drawing.Font("Verdana", 8.25F);
-            this._receivedOnValueLabel.ForeColor = System.Drawing.Color.White;
+            this._receivedOnValueLabel.ForeColor = System.Drawing.Color.Black;
             this._receivedOnValueLabel.Location = new System.Drawing.Point(162, 76);
             this._receivedOnValueLabel.Name = "_receivedOnValueLabel";
             this._receivedOnValueLabel.Size = new System.Drawing.Size(0, 13);
@@ -372,8 +375,9 @@
             // _emailTitleLbl
             // 
             this._emailTitleLbl.AutoSize = true;
+            this._emailTitleLbl.BackColor = System.Drawing.Color.Gainsboro;
             this._emailTitleLbl.Font = new System.Drawing.Font("Microsoft Tai Le", 19F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this._emailTitleLbl.ForeColor = System.Drawing.Color.White;
+            this._emailTitleLbl.ForeColor = System.Drawing.Color.Black;
             this._emailTitleLbl.Location = new System.Drawing.Point(15, 10);
             this._emailTitleLbl.Name = "_emailTitleLbl";
             this._emailTitleLbl.Size = new System.Drawing.Size(0, 32);

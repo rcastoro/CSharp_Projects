@@ -287,6 +287,8 @@ namespace MailXOR
             // Get background worker that raised this event
             BackgroundWorker worker = sender as BackgroundWorker;
 
+            worker.ReportProgress(0);
+
             e.Result = InitializeEmailEngine(worker);
             Application.UseWaitCursor = false;
         }
