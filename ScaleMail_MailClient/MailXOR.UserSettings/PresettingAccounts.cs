@@ -50,12 +50,12 @@ namespace MailXOR.UserSettings
                    _serverSettings[0] = "0";
                    _serverSettings[1] = "995";
                    _serverSettings[2] = "SSL";
-                   _serverSettings[3] = "pop3.live.com";
+                   _serverSettings[3] = "outlook.office365.com";
                    _serverSettings[4] = "";
                    _serverSettings[5] = "";
                    _serverSettings[6] = "587";
                    _serverSettings[7] = "SSL";
-                   _serverSettings[8] = "smtp.live.com";
+                   _serverSettings[8] = "smtp.office365.com";
                     break;
                 case 2:
                     // Incoming Mail Server (POP3, IMAP) gmail
@@ -74,12 +74,12 @@ namespace MailXOR.UserSettings
                     _serverSettings[0] = "0";
                     _serverSettings[1] = "995";
                     _serverSettings[2] = "SSL";
-                    _serverSettings[3] = "pop3.live.com";
+                    _serverSettings[3] = "outlook.office365.com";
                     _serverSettings[4] = "";
                     _serverSettings[5] = "";
                     _serverSettings[6] = "587";
                     _serverSettings[7] = "SSL";
-                    _serverSettings[8] = "smtp.live.com";
+                    _serverSettings[8] = "smtp.office365.com";
                     break;
                 default:
                     break;

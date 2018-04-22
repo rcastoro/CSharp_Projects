@@ -219,7 +219,7 @@ namespace MailXOR.UserSettings
         protected void CreateNewUserSettings()
         {
 
-            if (Properties.Settings1.Default["Username"] == string.Empty)
+            if (Properties.Settings1.Default["Username"] != string.Empty)
             {
                 _inUserProtocol =   Properties.Settings1.Default["IN_Protocol"].ToString();
                 _inUserPort =       Properties.Settings1.Default["IN_Port"].ToString();
