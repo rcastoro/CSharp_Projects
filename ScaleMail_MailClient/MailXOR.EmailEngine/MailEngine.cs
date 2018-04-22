@@ -58,6 +58,11 @@ namespace MailXOR.EmailEngine
                     {
                         // Store appropriate dataset (mailbox) into memory
                         _emailContent = _emailDSList[ReturnCurrentAccountDSIndex()];
+
+                        //foreach(DataTable table in _emailContent.Tables)
+                        //{
+                        //    table.DefaultView.Sort = "Date DESC";
+                        //}
                     }
                 }
                 else    // New account - Get mail then serialize immediatly
@@ -184,7 +189,7 @@ namespace MailXOR.EmailEngine
                     return 1;
                 }
             }
-            catch
+            catch (Exception ex)
             {
                 ua.SettingsVerified = false;
                 return 0;
@@ -201,7 +206,6 @@ namespace MailXOR.EmailEngine
             // Create Datatable, DataSet and add columns
             _emailDataTableList = new List<DataTable>();
 
-            int emailCount = 0;
             int increment = 0;
 
             // Get Folders
@@ -219,9 +223,9 @@ namespace MailXOR.EmailEngine
 
                 // Get Emails
                 if (_ua.InUserProtocol == "POP3")
-                    GetMailUsingPOP3(folderName, emailCount, increment, worker);
+                    GetMailUsingPOP3(folderName, increment, worker);
                 else
-                    GetMailUsingIMAP(folderName, emailCount, increment, worker, _folderList.Count); 
+                    GetMailUsingIMAP(folderName, increment, worker, _folderList.Count); 
 
                 // Increment the loop index for next folder
                 increment++;
@@ -269,7 +273,7 @@ namespace MailXOR.EmailEngine
 
                 return 1;
             }
-            catch
+            catch (Exception ex)
             {
                 return 0;
             }
@@ -311,10 +315,14 @@ namespace MailXOR.EmailEngine
         /// <param name="emailCount">Count of email in folder</param>
         /// <param name="increment">Current Index</param>
         /// <param name="worker">BackgroundWorker that started this thread</param>
-        private void GetMailUsingPOP3(string folderName, int emailCount, int increment, BackgroundWorker worker)
+        private void GetMailUsingPOP3(string folderName, int increment, BackgroundWorker worker)
         {
-            foreach (string uid in _pop3.GetAll())
+            List<string> emails = _pop3.GetAll();
+            foreach (string uid in emails)
             {
+                // If top 5 perfect of emails, then download.
+                if (float.Parse(uid) >= 42000f)
+                {
                     // Add new row to DataTable
                     DataRow emailDataRow = _emailDataTableList[increment].NewRow();
 
@@ -329,9 +337,10 @@ namespace MailXOR.EmailEngine
                     emailDataRow["Viewed"] = 0;
 
                     _emailDataTableList[increment].Rows.Add(emailDataRow);
+                }
             }
-            _emailContent.Tables.Remove(folderName);
             _emailContent.Tables.Add(_emailDataTableList[increment]); //add data table if there is none in DS yet.
+            _emailContent.Tables.Remove(folderName);
         }
         
         /// <summary>
@@ -341,73 +350,79 @@ namespace MailXOR.EmailEngine
         /// <param name="emailCount"></param>
         /// <param name="increment"></param>
         /// <param name="worker"></param>
-        private void GetMailUsingIMAP(string folderName, int emailCount, int increment, BackgroundWorker worker, int totalFolderCount)
+        private void GetMailUsingIMAP(string folderName, int increment, BackgroundWorker worker, int totalFolderCount)
         {
             _imap.Select(folderName);
 
-            int percentComplete =
-            (int)((float)increment / (float)totalFolderCount * 100);
-            worker.ReportProgress(percentComplete);
-   
+            int percentComplete = 0;
 
-            // Get total count for progress
-            foreach (int uid in _imap.GetAll())
-            {
-                emailCount++;
-            }
+            bool alreadyOwn = false;
+
+            List<long> emailList = _imap.GetAll();
+
             int inc = 0;
-            foreach (int uid in _imap.GetAll())
+            foreach (int uid in emailList)
             {
-                if (inc < 1610) // Debug
+                DataRow emailDataRow;
+                if (_getNewMessages)
                 {
-                    inc++;
-                    continue;
+                    worker.ReportProgress(50);
+                    emailDataRow = _emailContent.Tables[folderName].NewRow();
                 }
                 else
                 {
-                    if (_getNewMessages && largestUID == 0)
+                    emailDataRow = _emailDataTableList[increment].NewRow();
+                }
+
+                alreadyOwn = false;
+
+                if (_emailContent.Tables.Count > 0)
+                {
+                    for (int x = 0; x < _emailContent.Tables[increment].Rows.Count; x++)
                     {
-                        largestUID = GetLargestUID();   //Set newest email already received
-                    }
-                    if (uid > largestUID)
-                    {
-                        DataRow emailDataRow;
-                        if (_getNewMessages)
+                        if (_emailContent.Tables[increment].Rows[x][0].ToString() == uid.ToString())
                         {
-                            emailDataRow = _emailContent.Tables[folderName].NewRow();
+                            alreadyOwn = true;
                         }
-                        else
-                        {
-                            emailDataRow = _emailDataTableList[increment].NewRow();
-                        }
-
-                        var eml = _imap.GetMessageByUID(uid);
-                        IMail emailData = new MailBuilder()
-                            .CreateFromEml(eml);
-
-                        emailDataRow["GUID"] = uid;
-                        emailDataRow["Date"] = emailData.Date.ToString();
-                        emailDataRow["From"] = emailData.From;
-                        emailDataRow["Body"] = emailData.GetBodyAsHtml();
-                        emailDataRow["Subject"] = emailData.Date.ToString() + " - " + emailData.Subject;
-                        emailDataRow["Viewed"] = 1;
-
-                        if (_getNewMessages)
-                        {
-                            _emailContent.Tables[increment].Rows.Add(emailDataRow);
-                        }
-                        else
-                        {
-                            _emailDataTableList[increment].Rows.Add(emailDataRow);
-                        }
-
                     }
                 }
+
+                if (alreadyOwn == false)
+                {
+
+                    var eml = _imap.GetMessageByUID(uid);
+                    IMail emailData = new MailBuilder()
+                        .CreateFromEml(eml);
+
+                    emailDataRow["GUID"] = uid;
+                    emailDataRow["Date"] = emailData.Date.ToString();
+                    emailDataRow["From"] = emailData.From;
+                    emailDataRow["Body"] = emailData.GetBodyAsHtml();
+                    emailDataRow["Subject"] = emailData.Date.ToString() + " - " + emailData.Subject;
+                    emailDataRow["Viewed"] = 1;
+
+                    if (_getNewMessages)
+                    {
+                        worker.ReportProgress(100);
+                        _emailContent.Tables[increment].Rows.Add(emailDataRow);
+                    }
+                    else
+                    {
+                        _emailDataTableList[increment].Rows.Add(emailDataRow);
+                    }
+                }
+
+                percentComplete = (inc * 100 / emailList.Count);
+                worker.ReportProgress(percentComplete);
+
+                inc++;
+
             }
             if (!_getNewMessages)
             {
                 _emailContent.Tables.Add(_emailDataTableList[increment]); //add data table if there is none in DS yet.
             }
+
         }
 
         /// <summary>
